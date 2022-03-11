@@ -1,6 +1,6 @@
 ﻿timestamp;wipingCmd;WiperMotorAngle;WiperMotorSpeed;wiperMotorLowSpeedOut;wiperMotorHighSpeedOut;Wiping_HMI_rqst;wiperParkStatusIn;wiperParkStatusOut;wiperMotorLowSpeed;Digital_WiperHi;Digital_WiperLo;bWiperMotorLowSpeed
 0,0,0.000000,0.000000,0,0,0,0,0,0,0,0,0
-99,,,,,,3,,,,,,
+0,,,,,,3,,,,,,
 199,,,,,,,,,,,1,
 299,,,,,,0,,,1,,,
 301,,,,1,,,,,,,,
