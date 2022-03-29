@@ -1509,7 +1509,7 @@
                     <DELAY-CONSTRAINT>
                       <SHORT-NAME>FromHMIToMotorAngle</SHORT-NAME>
                       <CATEGORY></CATEGORY>
-                      <NAME>1500.0</NAME>
+                      <NAME>3000.0</NAME>
                       <OWNED-COMMENTS/>
                       <LOWER>
                         <TYPE-TREF TYPE="EA-NUMERICAL">/Core/Structure/DesignPkg/DataTypes/Numerical</TYPE-TREF>
